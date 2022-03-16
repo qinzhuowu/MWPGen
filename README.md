@@ -1,3 +1,7 @@
+MWPGen
+Automatic Math Word Problem Generation With Topic-Expression Co-Attention Mechanism and Reinforcement Learning
+published at TASLP2022 (IEEE/ACM Transactions on Audio, Speech and Language Processing)
+
 ## Requirement
 
 - Python2.7
